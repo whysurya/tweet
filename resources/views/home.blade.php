@@ -18,22 +18,20 @@
                         </div>
                     </div>
                     <div class="card-body">
-                        <div class="row">
-                            div.
-                                <div class="d-flex">
-                                    <img src="{{asset('img/kocheng.jpg')}}" width="50" height="50" class="rounded-circle" alt="">
-                                    <h6 class="text-dark">Why
-                                        <h6 class="text-muted">@ayy</h6>
-                                    </h6>
-                                    <div>
-                                        <p class="text-primary">@dev,
-                                            <p class="text-muted">
-                                                Lorem ipsum sit amet,consecteture adipiscing elit, se do .
-                                            </p>
-                                        </p>
-                                    </div>
-                                </div>
+                        <div class="d-flex">
+                            <img src="{{asset('img/kocheng.jpg')}}" width="50" height="50" class="rounded-circle" alt="">
+                            <div class="ml-3">
+                                <h6 class="text-dark">Why
+                                    <small class="text-muted">
+                                        @Ayy
+                                    </small>
+                                </h6>
+                                <h6 class="text-primary">@dev,
+                                    <span class="text-muted">Lorem ipsum sit amet,consecteture adipiscing elit, se do .</span>
+                                </h6>
+                            </div>
                         </div>
+                    </div>
                     </div>
             </div>
         </div>
